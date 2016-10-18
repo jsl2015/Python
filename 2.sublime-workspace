@@ -1,0 +1,277 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"du",
+				"dumps	function"
+			],
+			[
+				"s",
+				"s	statement"
+			],
+			[
+				"sp",
+				"split	function"
+			],
+			[
+				"spli",
+				"splitext	function"
+			],
+			[
+				"re",
+				"readlines	function"
+			],
+			[
+				"assertE",
+				"assertEquals	statement"
+			],
+			[
+				"WAR",
+				"WARNING	statement"
+			],
+			[
+				"n",
+				"next	function"
+			],
+			[
+				"W",
+				"WARNING	statement"
+			],
+			[
+				"Stu",
+				"Student	class"
+			],
+			[
+				"Bas",
+				"BasketballMixin	class"
+			],
+			[
+				"__",
+				"__init__"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 432.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/ss passwd.txt",
+		"/C/Users/jsl/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/jsl/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/E/公告/9.14 虚空之城  ios公告.txt",
+		"/E/脚本/work_script/monitor_port.sh",
+		"/C/Users/jsl/Desktop/开服 合服message/合服message.txt",
+		"/C/Users/jsl/Desktop/开服 合服message/新建文本文档.txt",
+		"/C/Users/jsl/Desktop/开服 合服message/开服message.txt",
+		"/E/脚本/work_script/auto_install_android.sh",
+		"/C/Users/jsl/Desktop/蓝月服务器.txt",
+		"/C/Users/jsl/Desktop/新建文本文档.txt",
+		"/C/Users/jsl/Desktop/py/aaaaaa.py",
+		"/C/Users/jsl/Desktop/py/pickle序列化.py",
+		"/C/Users/jsl/Desktop/py/dump.txt",
+		"/C/Users/jsl/Desktop/py/os&os.path.py",
+		"/C/Users/jsl/Desktop/防火墙端口.txt",
+		"/C/Users/jsl/Desktop/ss passwd.txt",
+		"/C/Users/jsl/Downloads/tcpip详解 卷1 高清晰完整版pdf/TCP-IP详解卷1/内容简介.TXT",
+		"/C/Users/jsl/Downloads/tcpip详解 卷1 高清晰完整版pdf/TCP-IP详解卷1/目录.TXT",
+		"/C/Users/jsl/Downloads/tcpip详解 卷1 高清晰完整版pdf/TCP-IP详解卷1/TCP-IP详解卷1：协议.TXT",
+		"/C/Users/jsl/Downloads/iPlaySoft.com-Snipaste-v1.6.x64-full/[说明].txt",
+		"/H/Users/qyf/Desktop/记录/20130605_角色创建默认国家/数据相关.txt",
+		"/J/2012/流程管理/数据库表更新流程.TXT",
+		"/H/Users/qyf/Desktop/未完成.txt",
+		"/C/Users/jsl/Desktop/pac.txt",
+		"/C/Users/jsl/Desktop/py/dd.py",
+		"/C/Users/jsl/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/jsl/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/jsl/Desktop/py/io操作.py",
+		"/C/Users/jsl/Desktop/py/单元测试part1.py",
+		"/C/Users/jsl/Desktop/py/单元测试part2.py",
+		"/C/Users/jsl/Desktop/py/logging调试.py",
+		"/C/Users/jsl/Desktop/py/dict_iteration.py",
+		"/C/Users/jsl/Desktop/py/类的继承.py",
+		"/C/Users/jsl/Desktop/py/列表生成式.py",
+		"/C/Users/jsl/Desktop/py/错误处理.py",
+		"/C/Users/jsl/Desktop/py/特殊方法__cmp__.py",
+		"/C/Users/jsl/Desktop/py/try&except.py",
+		"/C/Users/jsl/Desktop/py/装包.py",
+		"/C/Users/jsl/Desktop/py/闭包.py",
+		"/C/Users/jsl/Desktop/py/特殊方法__len__.py",
+		"/C/Users/jsl/Desktop/py/高阶函数_sorted.py",
+		"/C/Users/jsl/Desktop/py/testing.py",
+		"/C/Users/jsl/Desktop/py/额外的关键字参数.py",
+		"/C/Users/jsl/Desktop/py/高阶函数_filter.py",
+		"/C/Users/jsl/Desktop/py/ddddddddddd.py",
+		"/C/Users/jsl/AppData/Roaming/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/C/Users/jsl/AppData/Roaming/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"font",
+			"dir",
+			"ctrl+shift+k",
+			"slef = self",
+			"slef",
+			"s",
+			"Tim",
+			"Student",
+			"Person",
+			"=",
+			"school",
+			"how_many"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "2.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
